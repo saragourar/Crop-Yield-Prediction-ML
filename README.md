@@ -50,9 +50,13 @@ The dataset was obtained from Kaggle:
 ---
 
 ## Results
-- ANN, Random Forest, and XGBoost were compared  
-- Performance evaluated using R², MAE, and RMSE  
-- ANN showed strong performance with dimensionality reduction (PCA)  
+- Random Forest achieved the best performance among all models  
+- R² = 0.9932  
+- MAE = 3057.62  
+- RMSE = 6998.89  
+
+- XGBoost showed strong performance  
+- ANN achieved lower performance compared to other models despite using PCA  
 
 ---
 
