@@ -8,7 +8,7 @@ This project aims to predict crop yield using advanced machine learning techniqu
 ## 📊 Dataset
 The dataset was obtained from Kaggle:
 
-👉 https://www.kaggle.com/YOUR-DATASET-LINK
+[https://www.kaggle.com/YOUR-DATASET-LINK](https://www.kaggle.com/datasets/adedokunjulius/yield-df)
 
 ### Features:
 - Area (region)
